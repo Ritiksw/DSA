@@ -1,2 +1,2 @@
 # DSA
-We will list da question practice here
+We will list DSA question practice here
